@@ -3,6 +3,19 @@
 <!--
 **tracycod3r/tracycod3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<A software developer specialising in JavaScript>
+  
+---
+
+---
+
+🧰 Toolbox
+
+<img src ="https://worldvectorlogo.com/logo/html5" alt="Html Logo" width="50" height="50"/>
+
+---
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
