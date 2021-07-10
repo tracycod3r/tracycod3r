@@ -8,6 +8,7 @@ A software developer specialising in JavaScript
 - 🔭 I’m currently working on some cool projects 😎
 - 🌱 I’m currently learning React 💻
 - 👯 I’m looking to collaborate on open source projects 😍
+- ✍️ I'm also a technical blogger. Check out my [blog](https://tracy.hashnode.dev/)
 - 📫 How to reach me: [@tracycod3r](https://twitter.com/tracycod3r)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: Enjoy laughing 😆
