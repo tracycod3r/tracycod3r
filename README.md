@@ -1,5 +1,7 @@
 ### Hi there 👋 I am Tracy Nuwagaba!
 
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter%2Ftracycod3r)
+
 <!--
 **tracycod3r/tracycod3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
