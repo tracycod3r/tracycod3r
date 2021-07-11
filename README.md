@@ -40,6 +40,11 @@ A software developer specialising in JavaScript
 
 ---
 
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tracycod3r&hide=html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Tracy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tracycod3r&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **tracycod3r/tracycod3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
