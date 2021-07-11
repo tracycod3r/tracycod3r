@@ -13,6 +13,21 @@ A software developer specialising in JavaScript
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: Enjoy laughing 😆
 
+---
+
+🧰 Toolbox
+
+<img src ="https://worldvectorlogo.com/logo/html5" alt="Html Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/>
+<img src="https://worldvectorlogo.com/logo/git" alt="Git Logo" width="50" height="50"/>
+<img src="https://worldvectorlogo.com/logo/npm" alt="npm Logo" width="50" height="50"/>
+<img src="https://worldvectorlogo.com/logo/yarn" alt="Yarn Logo" width="50" height="50"/>
+<img src="https://worldvectorlogo.com/logo/visual-studio-code-1" alt="Visual Studio Logo" width="50" height="50"/>
+
+---
+
 <!--
 **tracycod3r/tracycod3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
