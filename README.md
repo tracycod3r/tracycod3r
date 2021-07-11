@@ -17,7 +17,7 @@ A software developer specialising in JavaScript
 
 🧰 Toolbox
 
-<img src ="https://cdn.worldvectorlogo.com/logo/html5" alt="Html Logo" width="50" height="50"/>
+<img src ="https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt="Html Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/>
