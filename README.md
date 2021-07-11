@@ -26,6 +26,18 @@ A software developer specialising in JavaScript
 
 ---
 
+---
+
+📘 Latest Blog Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+▶ [...more blog articles](https://tracy.hashnode.dev/)
+
+---
+
+
 <!--
 **tracycod3r/tracycod3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
