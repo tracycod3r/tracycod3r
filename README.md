@@ -42,7 +42,7 @@ A software developer specialising in JavaScript
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tracycod3r&hide=html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tracycod3r&hide=html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Tracy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tracycod3r&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
