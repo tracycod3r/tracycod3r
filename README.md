@@ -29,11 +29,11 @@ A software developer specialising in JavaScript
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [What are my personal goals as a frontend intern?](https://tracy.hashnode.dev/what-are-my-personal-goals-as-a-frontend-intern)
 - [Z-index CSS property](https://tracy.hashnode.dev/z-index-css-property)
 - [Paying attention to details as a developer.](https://tracy.hashnode.dev/paying-attention-to-details-as-a-developer)
 - [How to write code faster in React with VS Code](https://tracy.hashnode.dev/how-to-write-code-faster-in-react-with-vs-code)
 - [How 100 Days of Code have helped me in my journey of software development.](https://tracy.hashnode.dev/how-100-days-of-code-have-helped-me-in-my-journey-of-software-development)
-- [Making decisions in your code - JavaScript conditional statements](https://tracy.hashnode.dev/making-decisions-in-your-code-javascript-conditional-statements)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://tracy.hashnode.dev/)
